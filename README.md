@@ -8,6 +8,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Multi-agent reinforcement learning: An overview](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf) by Buşoniu L, Babuška R, De Schutter B. Innovations in multi-agent systems and applications-1. Springer Berlin Heidelberg, 2010
 * [A comprehensive survey of multi-agent reinforcement learning](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf) by Busoniu L, Babuska R, De Schutter B. IEEE Transactions on Systems Man and Cybernetics Part C Applications and Reviews, 2008
 * [From single-agent to multi-agent reinforcement learning: Foundational concepts and methods](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/learningNeto05.pdf) by Neto G. Learning theory course, 2005.
+* [Evolutionary game theory and multi-agent reinforcement learning](https://pdfs.semanticscholar.org/bb9f/bee22eae2b47bbf304804a6ac07def1aecdb.pdf) by Tuyls K, Nowé A. The Knowledge Engineering Review, 2005.
 
 ## Research Papers
 

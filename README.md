@@ -5,6 +5,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 
 ## Review Papers
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://jair.org/media/4818/live-4818-8818-jair.pdf) by Bloembergen, Daan, et al. JAIR, 2015.
+* [Game theory and multi-agent reinforcement learning](https://www.researchgate.net/publication/269100101_Game_Theory_and_Multi-agent_Reinforcement_Learning) by Nowé A, Vrancx P, De Hauwere Y M. Reinforcement Learning. Springer Berlin Heidelberg, 2012.
 * [Multi-agent reinforcement learning: An overview](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf) by Buşoniu L, Babuška R, De Schutter B. Innovations in multi-agent systems and applications-1. Springer Berlin Heidelberg, 2010
 * [A comprehensive survey of multi-agent reinforcement learning](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf) by Busoniu L, Babuska R, De Schutter B. IEEE Transactions on Systems Man and Cybernetics Part C Applications and Reviews, 2008
 * [From single-agent to multi-agent reinforcement learning: Foundational concepts and methods](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/learningNeto05.pdf) by Neto G. Learning theory course, 2005.
@@ -17,8 +18,10 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1702.08887.pdf) by Foerster J, Nardelli N, Farquhar G, et al. arXiv, 2017.
 * [Multiagent reinforcement learning with sparse interactions by negotiation and knowledge transfer](https://arxiv.org/pdf/1508.05328.pdf) by Zhou L, Yang P, Chen C, et al. IEEE transactions on cybernetics, 2016.
 * [Multiagent learning: Basics, challenges, and prospects](http://www.weiss-gerhard.info/publications/AI_MAGAZINE_2012_TuylsWeiss.pdf) by Tuyls, Karl, and Gerhard Weiss. AI Magazine, 2012.
+* [Classes of multiagent q-learning dynamics with epsilon-greedy exploration](http://icml2010.haifa.il.ibm.com/papers/191.pdf) by Wunder M, Littman M L, Babes M. ICML, 2010.
 * [Multi-agent reinforcement learning using strategies and voting](http://ama.imag.fr/~partalas/partalasmarl.pdf) by Partalas, Ioannis, Ioannis Feneris, and Ioannis Vlahavas. ICTAI, 2007.
 * [Extending Q-Learning to General Adaptive Multi-Agent Systems](https://papers.nips.cc/paper/2503-extending-q-learning-to-general-adaptive-multi-agent-systems.pdf) by Tesauro, Gerald. NIPS, 2003.
+* [Reinforcement learning to play an optimal Nash equilibrium in team Markov games](https://papers.nips.cc/paper/2171-reinforcement-learning-to-play-an-optimal-nash-equilibrium-in-team-markov-games.pdf) by Wang X, Sandholm T. NIPS, 2002.
 * [Hierarchical multi-agent reinforcement learning](http://researchers.lille.inria.fr/~ghavamza/my_website/Publications_files/agents01.pdf) by Makar, Rajbala, Sridhar Mahadevan, and Mohammad Ghavamzadeh. The fifth international conference on Autonomous agents, 2001.
 * [Multiagent reinforcement learning: theoretical framework and an algorithm.](http://www.lirmm.fr/~jq/Cours/3cycle/module/HuWellman98icml.pdf) by Hu, Junling, and Michael P. Wellman. ICML, 1998.
 * [Markov games as a framework for multi-agent reinforcement learning](https://www.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf) by Littman, Michael L. ICML, 1994.
@@ -30,6 +33,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Multi-agent reinforcement learning in common interest and fixed sum stochastic games: An experimental study](http://www.jmlr.org/papers/volume9/bab08a/bab08a.pdf) by Bab, Avraham, and Ronen I. Brafman. Journal of Machine Learning Research, 2008.
 * [Combining policy search with planning in multi-agent cooperation](https://pdfs.semanticscholar.org/5120/d9f2c738ad223e9f8f14cb3fd5612239a35c.pdf) by Ma J, Cameron S. Robot Soccer World Cup, 2008.
 * [Multi-agent reinforcement learning in common interest and fixed sum stochastic games: An experimental study](http://www.jmlr.org/papers/volume9/bab08a/bab08a.pdf) by Bab, Avraham, and Ronen I. Brafman. Journal of Machine Learning Research, 2008.
+* [Learning to cooperate in multi-agent social dilemmas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.335&rep=rep1&type=pdf) by de Cote E M, Lazaric A, Restelli M. AAMAS, 2006.
 
 ### Fictitious Self-Play
 * [Fictitious Self-Play in Extensive-Form Games](http://jmlr.org/proceedings/papers/v37/heinrich15.pdf) by Heinrich, Johannes, Marc Lanctot, and David Silver. ICML, 2015.

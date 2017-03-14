@@ -2,6 +2,9 @@
 
 This is a collection of research and review papers of multi-agent reinforcement learning (MARL). The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact me. Papers are sorted by time. Any suggestions and pull requests are welcome.
 
+## Tutorial
+* [Multi-Agent Reinforcement Learning](http://swarmlab.unimaas.nl/ala2014/tutorials/marl_introduction.pdf) by Daan Bloembergen. AAMAS, 2014.
+
 ## Review Papers
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://jair.org/media/4818/live-4818-8818-jair.pdf) by Bloembergen, Daan, et al. JAIR, 2015.
 * [Game theory and multi-agent reinforcement learning](https://www.researchgate.net/publication/269100101_Game_Theory_and_Multi-agent_Reinforcement_Learning) by Nowé A, Vrancx P, De Hauwere Y M. Reinforcement Learning. Springer Berlin Heidelberg, 2012.

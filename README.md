@@ -12,7 +12,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
   * [Communication](https://github.com/LantaoYu/MARL-Papers#communication)
   * [Transfer Learning](https://github.com/LantaoYu/MARL-Papers#transfer-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
-- - -
+-------------
 
 ## Tutorial
 * [Multi-Agent Reinforcement Learning](http://swarmlab.unimaas.nl/ala2014/tutorials/marl_introduction.pdf) by Daan Bloembergen. AAMAS, 2014.

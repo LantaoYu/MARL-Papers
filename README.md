@@ -12,6 +12,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
   * [Fictitious Self-Play](https://github.com/LantaoYu/MARL-Papers#fictitious-self-play)
   * [Communication](https://github.com/LantaoYu/MARL-Papers#communication)
   * [Transfer Learning](https://github.com/LantaoYu/MARL-Papers#transfer-learning)
+  * [Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#inverse-reinforcement-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
 
 ## Tutorial
@@ -77,6 +78,13 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Transfer learning in multi-agent systems through parallel transfer](https://www.scss.tcd.ie/~tayloral/res/papers/Taylor_ParallelTransferLearning_ICML_2013.pdf) by Taylor, Adam, et al. ICML, 2013.
 * [Transfer learning in multi-agent reinforcement learning domains](https://ewrl.files.wordpress.com/2011/08/ewrl2011_submission_19.pdf) by Boutsioukis, Georgios, Ioannis Partalas, and Ioannis Vlahavas. European Workshop on Reinforcement Learning, 2011.
 * [Transfer Learning for Multi-agent Coordination](https://ai.vub.ac.be/~ydehauwe/publications/ICAART2011_2.pdf) by Vrancx, Peter, Yann-Michaël De Hauwere, and Ann Nowé. ICAART, 2011.
+
+### Inverse Reinforcement Learning
+* [Cooperative inverse reinforcement learning](http://papers.nips.cc/paper/6420-cooperative-inverse-reinforcement-learning.pdf) by Hadfield-Menell D, Russell S J, Abbeel P, et al. NIPS, 2016.
+* [Comparison of Multi-agent and Single-agent Inverse Learning on a Simulated Soccer Example](https://arxiv.org/pdf/1403.6822.pdf) by Lin X, Beling P A, Cogill R. arXiv, 2014.
+* [Multi-agent inverse reinforcement learning for zero-sum games](https://arxiv.org/pdf/1403.6508.pdf) by Lin X, Beling P A, Cogill R. arXiv, 2014.
+* [Multi-robot inverse reinforcement learning under occlusion with interactions](http://aamas2014.lip6.fr/proceedings/aamas/p173.pdf) by Bogert K, Doshi P. AAMAS, 2014.
+* [Multi-agent inverse reinforcement learning](http://homes.soic.indiana.edu/natarasr/Papers/mairl.pdf) by Natarajan S, Kunapuli G, Judah K, et al. ICMLA, 2010.
 
 ### Application
 * [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1610.03295.pdf) by Shalev-Shwartz S, Shammah S, Shashua A. arXiv, 2016.

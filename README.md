@@ -67,6 +67,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 ### Application
 * [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1610.03295.pdf) by Shalev-Shwartz S, Shammah S, Shashua A. arXiv, 2016.
 * [Applying multi-agent reinforcement learning to watershed management](https://www.researchgate.net/profile/Karl_Mason/publication/299416955_Applying_Multi-Agent_Reinforcement_Learning_to_Watershed_Management/links/56f545b908ae95e8b6d1d3ff.pdf) by Mason, Karl, et al. Proceedings of the Adaptive and Learning Agents workshop at AAMAS, 2016.
+* [Crowd Simulation Via Multi-Agent Reinforcement Learning](http://www.aaai.org/ocs/index.php/AIIDE/AIIDE10/paper/viewFile/2112/2550) by Torrey L. AAAI, 2010.
 * [Traffic light control by multiagent reinforcement learning systems](https://pdfs.semanticscholar.org/61bc/b98b7ae3df894f4f72aba3d145bd48ca2cd5.pdf) by Bakker, Bram, et al. Interactive Collaborative Information Systems, 2010.
 * [Multiagent reinforcement learning for urban traffic control using coordination graphs](https://staff.science.uva.nl/s.a.whiteson/pubs/kuyerecml08.pdf) by Kuyer, Lior, et al. oint European Conference on Machine Learning and Knowledge Discovery in Databases, 2008.
 * [A multi-agent Q-learning framework for optimizing stock trading systems](https://www.researchgate.net/publication/221465347_A_Multi-agent_Q-learning_Framework_for_Optimizing_Stock_Trading_Systems) by Lee J W, Jangmin O. DEXA, 2002.

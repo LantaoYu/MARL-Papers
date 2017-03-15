@@ -7,6 +7,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Review Papers](https://github.com/LantaoYu/MARL-Papers#review-papers)
 * [Research Papers](https://github.com/LantaoYu/MARL-Papers#research-papers)
   * [Framework](https://github.com/LantaoYu/MARL-Papers#framework)
+  * [Joint action learning](https://github.com/LantaoYu/MARL-Papers#joint-action-learning)
   * [Cooperation and competition](https://github.com/LantaoYu/MARL-Papers#cooperation-and-competition)
   * [Security](https://github.com/LantaoYu/MARL-Papers#security)
   * [Self-Play](https://github.com/LantaoYu/MARL-Papers#self-play)
@@ -39,12 +40,16 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [A reinforcement learning scheme for a partially-observable multi-agent game](https://pdfs.semanticscholar.org/57fb/ae00e17c0d798559ebab0e8f4267e032f41d.pdf) by Ishii S, Fujita H, Mitsutake M, et al. Machine Learning, 2005.
 * [Asymmetric multiagent reinforcement learning](http://lib.tkk.fi/Diss/2004/isbn9512273594/article1.pdf) by Könönen V. Web Intelligence and Agent Systems, 2004.
 * [Adaptive policy gradient in multiagent learning](http://dl.acm.org/citation.cfm?id=860686) by Banerjee B, Peng J. AAMAS, 2003.
-* [Extending Q-Learning to General Adaptive Multi-Agent Systems](https://papers.nips.cc/paper/2503-extending-q-learning-to-general-adaptive-multi-agent-systems.pdf) by Tesauro, Gerald. NIPS, 2003.
 * [Reinforcement learning to play an optimal Nash equilibrium in team Markov games](https://papers.nips.cc/paper/2171-reinforcement-learning-to-play-an-optimal-nash-equilibrium-in-team-markov-games.pdf) by Wang X, Sandholm T. NIPS, 2002.
 * [Value-function reinforcement learning in Markov game](http://www.sts.rpi.edu/~rsun/si-mal/article3.pdf) by Littman M L. Cognitive Systems Research, 2001.
 * [Hierarchical multi-agent reinforcement learning](http://researchers.lille.inria.fr/~ghavamza/my_website/Publications_files/agents01.pdf) by Makar, Rajbala, Sridhar Mahadevan, and Mohammad Ghavamzadeh. The fifth international conference on Autonomous agents, 2001.
-* [Multiagent reinforcement learning: theoretical framework and an algorithm.](http://www.lirmm.fr/~jq/Cours/3cycle/module/HuWellman98icml.pdf) by Hu, Junling, and Michael P. Wellman. ICML, 1998.
+
+### Joint action learning
+* [AWESOME: A general multiagent learning algorithm that converges in self-play and learns a best response against stationary opponents](http://www.cs.cmu.edu/~conitzer/awesomeML06.pdf) by Conitzer V, Sandholm T. Machine Learning, 2007.
+* [Extending Q-Learning to General Adaptive Multi-Agent Systems](https://papers.nips.cc/paper/2503-extending-q-learning-to-general-adaptive-multi-agent-systems.pdf) by Tesauro, Gerald. NIPS, 2003.
+* [The dynamics of reinforcement learning in cooperative multiagent systems] by Claus C, Boutilier C. AAAI, 1998.
 * [Markov games as a framework for multi-agent reinforcement learning](https://www.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf) by Littman, Michael L. ICML, 1994.
+* [Multiagent reinforcement learning: theoretical framework and an algorithm.](http://www.lirmm.fr/~jq/Cours/3cycle/module/HuWellman98icml.pdf) by Hu, Junling, and Michael P. Wellman. ICML, 1998.
 
 ### Cooperation and competition
 * [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/pdf/1702.03037.pdf) by Leibo J Z, Zambaldi V, Lanctot M, et al. arXiv, 2017.
@@ -67,7 +72,6 @@ This is a collection of research and review papers of multi-agent reinforcement 
 ### Self-Play
 * [Deep reinforcement learning from self-play in imperfect-information games](https://arxiv.org/pdf/1603.01121.pdf) by Heinrich, Johannes, and David Silver. arXiv, 2016.
 * [Fictitious Self-Play in Extensive-Form Games](http://jmlr.org/proceedings/papers/v37/heinrich15.pdf) by Heinrich, Johannes, Marc Lanctot, and David Silver. ICML, 2015.
-* [AWESOME: A general multiagent learning algorithm that converges in self-play and learns a best response against stationary opponents](http://www.cs.cmu.edu/~conitzer/awesomeML06.pdf) by Conitzer V, Sandholm T. Machine Learning, 2007.
 
 ### Communication
 * [Learning to communicate to solve riddles with deep distributed recurrent q-networks](https://arxiv.org/pdf/1602.02672.pdf) by Foerster J N, Assael Y M, de Freitas N, et al. arXiv, 2016.

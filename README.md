@@ -9,7 +9,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
   * [Framework](https://github.com/LantaoYu/MARL-Papers#framework)
   * [Cooperation and competition](https://github.com/LantaoYu/MARL-Papers#cooperation-and-competition)
   * [Security](https://github.com/LantaoYu/MARL-Papers#security)
-  * [Fictitious Self-Play](https://github.com/LantaoYu/MARL-Papers#fictitious-self-play)
+  * [Self-Play](https://github.com/LantaoYu/MARL-Papers#self-play)
   * [Communication](https://github.com/LantaoYu/MARL-Papers#communication)
   * [Transfer Learning](https://github.com/LantaoYu/MARL-Papers#transfer-learning)
   * [Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#inverse-reinforcement-learning)
@@ -64,9 +64,10 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Cooperative Capture by Multi-Agent using Reinforcement Learning, Application for Security Patrol Systems](https://www.researchgate.net/publication/278029978_Cooperative_Capture_by_Multi-Agent_using_Reinforcement_Learning_Application_for_Security_Patrol_Systems) by Yasuyuki S, Hirofumi O, Tadashi M, et al. Control Conference (ASCC), 2015
 * [Improving learning and adaptation in security games by exploiting information asymmetry](http://www4.ncsu.edu/~hdai/infocom-2015-XH.pdf) by He X, Dai H, Ning P. INFOCOM, 2015.
 
-### Fictitious Self-Play
-* [Fictitious Self-Play in Extensive-Form Games](http://jmlr.org/proceedings/papers/v37/heinrich15.pdf) by Heinrich, Johannes, Marc Lanctot, and David Silver. ICML, 2015.
+### Self-Play
 * [Deep reinforcement learning from self-play in imperfect-information games](https://arxiv.org/pdf/1603.01121.pdf) by Heinrich, Johannes, and David Silver. arXiv, 2016.
+* [Fictitious Self-Play in Extensive-Form Games](http://jmlr.org/proceedings/papers/v37/heinrich15.pdf) by Heinrich, Johannes, Marc Lanctot, and David Silver. ICML, 2015.
+* [AWESOME: A general multiagent learning algorithm that converges in self-play and learns a best response against stationary opponents](http://www.cs.cmu.edu/~conitzer/awesomeML06.pdf) by Conitzer V, Sandholm T. Machine Learning, 2007.
 
 ### Communication
 * [Learning to communicate to solve riddles with deep distributed recurrent q-networks](https://arxiv.org/pdf/1602.02672.pdf) by Foerster J N, Assael Y M, de Freitas N, et al. arXiv, 2016.

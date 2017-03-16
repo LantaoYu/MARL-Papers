@@ -18,6 +18,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 
 ## Tutorial
 * [Multi-Agent Reinforcement Learning](http://swarmlab.unimaas.nl/ala2014/tutorials/marl_introduction.pdf) by Daan Bloembergen. AAMAS, 2014.
+* [Multiagent Reinforcement Learning](http://www.ecmlpkdd2013.org/wp-content/uploads/2013/09/Multiagent-Reinforcement-Learning.pdf) by Daan Bloembergen, Daniel Hennes, Michael Kaisers, Peter Vrancx. ECML, 2013.
 
 ## Review Papers
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://jair.org/media/4818/live-4818-8818-jair.pdf) by Bloembergen, Daan, et al. JAIR, 2015.

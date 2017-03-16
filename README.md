@@ -34,6 +34,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Robust Adversarial Reinforcement Learning](https://arxiv.org/pdf/1703.02702.pdf) by Lerrel Pinto, James Davidson, Rahul Sukthankar, Abhinav Gupta. arXiv, 2017.
 * [Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1702.08887.pdf) by Foerster J, Nardelli N, Farquhar G, et al. arXiv, 2017.
 * [Multiagent reinforcement learning with sparse interactions by negotiation and knowledge transfer](https://arxiv.org/pdf/1508.05328.pdf) by Zhou L, Yang P, Chen C, et al. IEEE transactions on cybernetics, 2016.
+* [Decentralised multi-agent reinforcement learning for dynamic and uncertain environments](https://arxiv.org/pdf/1409.4561.pdf) by Marinescu A, Dusparic I, Taylor A, et al. arXiv, 2014.
 * [Bayesian reinforcement learning for multiagent systems with state uncertainty](http://www.fransoliehoek.net/docs/Amato13MSDM.pdf) by Amato C, Oliehoek F A. MSDM Workshop, 2013.
 * [Multiagent learning: Basics, challenges, and prospects](http://www.weiss-gerhard.info/publications/AI_MAGAZINE_2012_TuylsWeiss.pdf) by Tuyls, Karl, and Gerhard Weiss. AI Magazine, 2012.
 * [Classes of multiagent q-learning dynamics with epsilon-greedy exploration](http://icml2010.haifa.il.ibm.com/papers/191.pdf) by Wunder M, Littman M L, Babes M. ICML, 2010.
@@ -81,6 +82,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 
 ### Transfer Learning
 * [Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.ijcai.org/Proceedings/16/Papers/565.pdf) by da Silva, Felipe Leno, and Anna Helena Reali Costa. IJCAI, 2016.
+* [Accelerating multi-agent reinforcement learning with dynamic co-learning](https://web.cs.umass.edu/publication/docs/2015/UM-CS-2015-004.pdf) by Garant D, da Silva B C, Lesser V, et al. Technical report, 2015
 * [Transfer learning in multi-agent systems through parallel transfer](https://www.scss.tcd.ie/~tayloral/res/papers/Taylor_ParallelTransferLearning_ICML_2013.pdf) by Taylor, Adam, et al. ICML, 2013.
 * [Transfer learning in multi-agent reinforcement learning domains](https://ewrl.files.wordpress.com/2011/08/ewrl2011_submission_19.pdf) by Boutsioukis, Georgios, Ioannis Partalas, and Ioannis Vlahavas. European Workshop on Reinforcement Learning, 2011.
 * [Transfer Learning for Multi-agent Coordination](https://ai.vub.ac.be/~ydehauwe/publications/ICAART2011_2.pdf) by Vrancx, Peter, Yann-Michaël De Hauwere, and Ann Nowé. ICAART, 2011.

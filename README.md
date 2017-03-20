@@ -9,6 +9,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
   * [Framework](https://github.com/LantaoYu/MARL-Papers#framework)
   * [Joint action learning](https://github.com/LantaoYu/MARL-Papers#joint-action-learning)
   * [Cooperation and competition](https://github.com/LantaoYu/MARL-Papers#cooperation-and-competition)
+  * [Coordination](https://github.com/LantaoYu/MARL-Papers#coordination)
   * [Security](https://github.com/LantaoYu/MARL-Papers#security)
   * [Self-Play](https://github.com/LantaoYu/MARL-Papers#self-play)
   * [Communication](https://github.com/LantaoYu/MARL-Papers#communication)
@@ -67,6 +68,15 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Learning to compete, compromise, and cooperate in repeated general-sum games](http://www.machinelearning.org/proceedings/icml2005/papers/021_Learning_CrandallGoodrich.pdf) by Crandall J W, Goodrich M A. ICML, 2005.
 * [Sparse cooperative Q-learning](http://www.machinelearning.org/proceedings/icml2004/papers/267.pdf) by Kok J R, Vlassis N. ICML, 2004.
 
+### Coordination
+* [Coordinated Multi-Agent Imitation Learning](https://arxiv.org/pdf/1703.03121.pdf) by Le H M, Yue Y, Carr P. arXiv, 2017.
+* [Reinforcement social learning of coordination in networked cooperative multiagent systems](http://mipc.inf.ed.ac.uk/2014/papers/mipc2014_hao_etal.pdf) by Hao J, Huang D, Cai Y, et al. AAAI Workshop, 2014.
+* [Coordinating multi-agent reinforcement learning with limited communication](http://www.aamas-conference.org/Proceedings/aamas2013/docs/p1101.pdf) by Zhang, Chongjie, and Victor Lesser. AAMAS, 2013.
+* [Coordination guided reinforcement learning](http://www.ifaamas.org/Proceedings/aamas2012/papers/1B_1.pdf) by Lau Q P, Lee M L, Hsu W. AAMAS, 2012.
+* [Coordination in multiagent reinforcement learning: a Bayesian approach](https://www.cs.toronto.edu/~cebly/Papers/bayesMARL.pdf) by Chalkiadakis G, Boutilier C. AAMAS, 2003.
+* [Coordinated reinforcement learning](https://users.cs.duke.edu/~parr/icml02.pdf) by Guestrin C, Lagoudakis M, Parr R. ICML, 2002.
+* [Reinforcement learning of coordination in cooperative multi-agent systems](http://www.aaai.org/Papers/AAAI/2002/AAAI02-050.pdf) by Kapetanakis S, Kudenko D. AAAI/IAAI, 2002.
+
 ### Security
 * [Markov Security Games: Learning in Spatial Security Problems](http://www.fransoliehoek.net/docs/Klima16LICMAS.pdf) by Klima R, Tuyls K, Oliehoek F. The Learning, Inference and Control of Multi-Agent Systems at NIPS, 2016.
 * [Cooperative Capture by Multi-Agent using Reinforcement Learning, Application for Security Patrol Systems](https://www.researchgate.net/publication/278029978_Cooperative_Capture_by_Multi-Agent_using_Reinforcement_Learning_Application_for_Security_Patrol_Systems) by Yasuyuki S, Hirofumi O, Tadashi M, et al. Control Conference (ASCC), 2015
@@ -80,7 +90,6 @@ This is a collection of research and review papers of multi-agent reinforcement 
 * [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf) by Igor Mordatch, Pieter Abbeel. arXiv, 2017. [[Post](https://openai.com/blog/learning-to-communicate/)]
 * [Learning to communicate to solve riddles with deep distributed recurrent q-networks](https://arxiv.org/pdf/1602.02672.pdf) by Foerster J N, Assael Y M, de Freitas N, et al. arXiv, 2016.
 * [Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf) by Foerster J, Assael Y M, de Freitas N, et al. NIPS, 2016.
-* [Coordinating multi-agent reinforcement learning with limited communication](http://www.aamas-conference.org/Proceedings/aamas2013/docs/p1101.pdf) by Zhang, Chongjie, and Victor Lesser. AAMAS, 2013.
 
 ### Transfer Learning
 * [Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.ijcai.org/Proceedings/16/Papers/565.pdf) by da Silva, Felipe Leno, and Anna Helena Reali Costa. IJCAI, 2016.

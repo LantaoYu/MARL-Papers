@@ -14,7 +14,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Coordination](https://github.com/LantaoYu/MARL-Papers#coordination)
   * [Security](https://github.com/LantaoYu/MARL-Papers#security)
   * [Self-Play](https://github.com/LantaoYu/MARL-Papers#self-play)
-  * [Communication](https://github.com/LantaoYu/MARL-Papers#communication)
+  * [Learning To Communicate](https://github.com/LantaoYu/MARL-Papers#learning-to-communicate)
   * [Transfer Learning](https://github.com/LantaoYu/MARL-Papers#transfer-learning)
   * [Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#inverse-reinforcement-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
@@ -89,7 +89,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Deep reinforcement learning from self-play in imperfect-information games](https://arxiv.org/pdf/1603.01121.pdf) by Heinrich, Johannes, and David Silver. arXiv, 2016.
 * [Fictitious Self-Play in Extensive-Form Games](http://jmlr.org/proceedings/papers/v37/heinrich15.pdf) by Heinrich, Johannes, Marc Lanctot, and David Silver. ICML, 2015.
 
-### Communication
+### Learning To Communicate
 * [EMERGENCE OF LANGUAGE WITH MULTI-AGENT GAMES: LEARNING TO COMMUNICATE WITH SEQUENCES OF SYMBOLS](https://openreview.net/pdf?id=SkaxnKEYg) by Serhii Havrylov, Ivan Titov. ICLR Workshop, 2017.
 * [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/pdf/1703.06585.pdf) by Abhishek Das, Satwik Kottur, et al. arXiv, 2017.
 * [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf) by Igor Mordatch, Pieter Abbeel. arXiv, 2017. [[Post](https://openai.com/blog/learning-to-communicate/)]

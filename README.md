@@ -97,6 +97,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Learning to communicate to solve riddles with deep distributed recurrent q-networks](https://arxiv.org/pdf/1602.02672.pdf) by Foerster J N, Assael Y M, de Freitas N, et al. arXiv, 2016.
 * [Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf) by Foerster J, Assael Y M, de Freitas N, et al. NIPS, 2016.
 * [Learning multiagent communication with backpropagation](http://papers.nips.cc/paper/6398-learning-multiagent-communication-with-backpropagation.pdf) by Sukhbaatar S, Fergus R. NIPS, 2016.
+* [Efficient distributed reinforcement learning through agreement](http://people.csail.mit.edu/lpk/papers/dars08.pdf) by Varshavskaya P, Kaelbling L P, Rus D. Distributed Autonomous Robotic Systems, 2009.
 
 ### Transfer Learning
 * [Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.ijcai.org/Proceedings/16/Papers/565.pdf) by da Silva, Felipe Leno, and Anna Helena Reali Costa. IJCAI, 2016.

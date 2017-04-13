@@ -24,6 +24,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Multiagent Reinforcement Learning](http://www.ecmlpkdd2013.org/wp-content/uploads/2013/09/Multiagent-Reinforcement-Learning.pdf) by Daan Bloembergen, Daniel Hennes, Michael Kaisers, Peter Vrancx. ECML, 2013.
 
 ## Review Papers
+* [Deep Reinforcement Learning Variants of Multi-Agent Learning Algorithms](https://project-archive.inf.ed.ac.uk/msc/20162091/msc_proj.pdf) by Castaneda A O. 2016.
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://jair.org/media/4818/live-4818-8818-jair.pdf) by Bloembergen, Daan, et al. JAIR, 2015.
 * [Game theory and multi-agent reinforcement learning](https://www.researchgate.net/publication/269100101_Game_Theory_and_Multi-agent_Reinforcement_Learning) by Nowé A, Vrancx P, De Hauwere Y M. Reinforcement Learning. Springer Berlin Heidelberg, 2012.
 * [Multi-agent reinforcement learning: An overview](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/10_003.pdf) by Buşoniu L, Babuška R, De Schutter B. Innovations in multi-agent systems and applications-1. Springer Berlin Heidelberg, 2010
@@ -94,6 +95,7 @@ The sharing principle of these references here is for research. If any authors d
 * [EMERGENCE OF LANGUAGE WITH MULTI-AGENT GAMES: LEARNING TO COMMUNICATE WITH SEQUENCES OF SYMBOLS](https://openreview.net/pdf?id=SkaxnKEYg) by Serhii Havrylov, Ivan Titov. ICLR Workshop, 2017.
 * [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/pdf/1703.06585.pdf) by Abhishek Das, Satwik Kottur, et al. arXiv, 2017.
 * [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf) by Igor Mordatch, Pieter Abbeel. arXiv, 2017. [[Post](https://openai.com/blog/learning-to-communicate/)]
+* [Cooperation and communication in multiagent deep reinforcement learning](https://repositories.lib.utexas.edu/handle/2152/45681) by Hausknecht M J. 2017.
 * [Multi-agent cooperation and the emergence of (natural) language](https://openreview.net/pdf?id=Hk8N3Sclg) by Lazaridou A, Peysakhovich A, Baroni M. arXiv, 2016.
 * [Learning to communicate to solve riddles with deep distributed recurrent q-networks](https://arxiv.org/pdf/1602.02672.pdf) by Foerster J N, Assael Y M, de Freitas N, et al. arXiv, 2016.
 * [Learning to communicate with deep multi-agent reinforcement learning](https://arxiv.org/pdf/1605.06676.pdf) by Foerster J, Assael Y M, de Freitas N, et al. NIPS, 2016.

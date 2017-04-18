@@ -2,7 +2,7 @@
 
 This is a collection of research and review papers of multi-agent reinforcement learning (MARL). The Papers are sorted by time. Any suggestions and pull requests are welcome. 
 
-The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Lantao Yu](http://apex.sjtu.edu.cn/members/yulantao) (Email: LantaoYu [AT] hotmail.com).
+The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Lantao Yu](https://lantaoyu.github.io/) (Email: LantaoYu [AT] hotmail.com).
 
 ## Overview
 * [Tutorial](https://github.com/LantaoYu/MARL-Papers#tutorial)

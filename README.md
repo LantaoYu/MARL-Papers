@@ -19,9 +19,10 @@ The sharing principle of these references here is for research. If any authors d
   * [Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#inverse-reinforcement-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
 
-## Tutorial
+## Tutorial and Books
 * [Multi-Agent Reinforcement Learning](http://swarmlab.unimaas.nl/ala2014/tutorials/marl_introduction.pdf) by Daan Bloembergen. AAMAS, 2014.
 * [Multiagent Reinforcement Learning](http://www.ecmlpkdd2013.org/wp-content/uploads/2013/09/Multiagent-Reinforcement-Learning.pdf) by Daan Bloembergen, Daniel Hennes, Michael Kaisers, Peter Vrancx. ECML, 2013.
+* [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
 
 ## Review Papers
 * [Deep Reinforcement Learning Variants of Multi-Agent Learning Algorithms](https://project-archive.inf.ed.ac.uk/msc/20162091/msc_proj.pdf) by Castaneda A O. 2016.

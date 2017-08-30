@@ -88,7 +88,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Security
 * [Markov Security Games: Learning in Spatial Security Problems](http://www.fransoliehoek.net/docs/Klima16LICMAS.pdf) by Klima R, Tuyls K, Oliehoek F. The Learning, Inference and Control of Multi-Agent Systems at NIPS, 2016.
-* [Cooperative Capture by Multi-Agent using Reinforcement Learning, Application for Security Patrol Systems](https://www.researchgate.net/publication/278029978_Cooperative_Capture_by_Multi-Agent_using_Reinforcement_Learning_Application_for_Security_Patrol_Systems) by Yasuyuki S, Hirofumi O, Tadashi M, et al. Control Conference (ASCC), 2015
+* [Cooperative Capture by Multi-Agent using Reinforcement Learning, Application for Security Patrol Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7244682) by Yasuyuki S, Hirofumi O, Tadashi M, et al. Control Conference (ASCC), 2015
 * [Improving learning and adaptation in security games by exploiting information asymmetry](http://www4.ncsu.edu/~hdai/infocom-2015-XH.pdf) by He X, Dai H, Ning P. INFOCOM, 2015.
 
 ### Self-Play

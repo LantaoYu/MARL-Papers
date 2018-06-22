@@ -22,7 +22,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
 
 ## Tutorial and Books
-* [Multi-Agent Machine Learning: A Reinforcement Approach](https://www.dropbox.com/s/ekr5usf2khqm2n0/Multi-Agent%20Machine%20Learning.pdf?dl=0) by H. M. Schwartz, 2014.
+* [Multi-Agent Machine Learning: A Reinforcement Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118884614) by H. M. Schwartz, 2014.
 * [Multiagent Reinforcement Learning](http://www.ecmlpkdd2013.org/wp-content/uploads/2013/09/Multiagent-Reinforcement-Learning.pdf) by Daan Bloembergen, Daniel Hennes, Michael Kaisers, Peter Vrancx. ECML, 2013.
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) by Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
 

@@ -7,7 +7,7 @@ This is a collection of research and review papers of multi-agent reinforcement 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Lantao Yu](https://lantaoyu.github.io/) (Email: lantaoyu [AT] hotmail.com).
 
 ## Overview
-* [Tutorial](https://github.com/LantaoYu/MARL-Papers#tutorial)
+* [Tutorial](https://github.com/LantaoYu/MARL-Papers#tutorial-and-books)
 * [Review Papers](https://github.com/LantaoYu/MARL-Papers#review-papers)
 * [Research Papers](https://github.com/LantaoYu/MARL-Papers#research-papers)
   * [Framework](https://github.com/LantaoYu/MARL-Papers#framework)

@@ -144,6 +144,8 @@ The sharing principle of these references here is for research. If any authors d
 ### Meta Learning
 * [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/pdf/1710.03641.pdf) by l-Shedivat, M. 2018.
 
+### Social Law or Social Norm Learning
+[Emergent Road Rules In Multi-Agent Driving Environments] (https://arxiv.org/abs/2011.10753) by Pal, A., Philion, J., Liao, Y. H., & Fidler, S. 2020.
 
 ### Application
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/pdf/1712.00600.pdf) by Zheng L et al. NIPS 2017 & AAAI 2018 Demo. ([Github Page](https://github.com/geek-ai/MAgent))

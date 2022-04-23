@@ -1,10 +1,12 @@
-# Paper Collection of Multi-Agent Reinforcement Learning (MARL)
+# :star2:Continuing to update the MARL papers!
+
+## Paper Collection of Multi-Agent Reinforcement Learning (MARL)
 
 Multi-Agent Reinforcement Learning is a very interesting research area, which has strong connections with single-agent RL, multi-agent systems, game theory, evolutionary computation and optimization theory.
 
 This is a collection of research and review papers of multi-agent reinforcement learning (MARL). The Papers are sorted by time. Any suggestions and pull requests are welcome.
 
-The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Lantao Yu](https://lantaoyu.github.io/) (Email: lantaoyu [AT] hotmail.com).
+The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact us.
 
 ## Overview
 * [Tutorial](https://github.com/LantaoYu/MARL-Papers#tutorial-and-books)

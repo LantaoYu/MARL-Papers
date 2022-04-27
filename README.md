@@ -23,6 +23,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
 
 ## Tutorial and Books
+* [Many-agent Reinforcement Learning](https://discovery.ucl.ac.uk/id/eprint/10124273/12/Yang_10124273_thesis_revised.pdf) by Yaodong Yang, 2021. PhD Thesis.
 * [Deep Multi-Agent Reinforcement Learning](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4) by Jakob N Foerster, 2018. PhD Thesis.
 * [Multi-Agent Machine Learning: A Reinforcement Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118884614) by H. M. Schwartz, 2014.
 * [Multiagent Reinforcement Learning](http://www.ecmlpkdd2013.org/wp-content/uploads/2013/09/Multiagent-Reinforcement-Learning.pdf) by Daan Bloembergen, Daniel Hennes, Michael Kaisers, Peter Vrancx. ECML, 2013.
@@ -47,6 +48,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers
 
 ### Framework
+* [Multi-agent constrained policy optimisation](https://arxiv.org/pdf/2110.02793.pdf) by Shangding Gu, Jakub Grudzien Kuba, Munning Wen, Ruiqing Chen, Ziyan Wang, Zheng Tian, Jun Wang, Alois Knoll, and Yaodong Yang, 2021.
 * [Settling the variance of multi-agent policy gradients](https://arxiv.org/pdf/2108.08612.pdf) by Kuba Jakub, Muning Wen, Linghui Meng, Shangding Gu, Haifeng Zhang, David Mguni, Jun Wang, and Yaodong Yang, NIPS 2021.
 * [Mean Field Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1802.05438.pdf) by Yaodong Yang, Rui Luo, Minne Li, Ming Zhou, Weinan Zhang, and Jun Wang. ICML 2018.
 * [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf) by Lowe R, Wu Y, Tamar A, et al. arXiv, 2017.
@@ -81,7 +83,6 @@ The sharing principle of these references here is for research. If any authors d
 ### Cooperation and competition
 * [The Complexity of Markov Equilibrium in Stochastic Games](https://arxiv.org/pdf/2204.03991.pdf) by Daskalakis, Constantinos, Noah Golowich, and Kaiqing Zhang, 2022.
 * [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) by Kuba, Jakub Grudzien, Ruiqing Chen, Munning Wen, Ying Wen, Fanglei Sun, Jun Wang, and Yaodong Yang, ICLR 2022.
-* [Multi-agent constrained policy optimisation](https://arxiv.org/pdf/2110.02793.pdf) by Shangding Gu, Jakub Grudzien Kuba, Munning Wen, Ruiqing Chen, Ziyan Wang, Zheng Tian, Jun Wang, Alois Knoll, and Yaodong Yang, 2021.
 * [Emergent complexity through multi-agent competition](https://arxiv.org/pdf/1710.03748.pdf) by Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, Igor Mordatch, 2018.
 * [Learning with opponent learning awareness](https://arxiv.org/pdf/1709.04326.pdf) by Jakob Foerster, Richard Y. Chen2, Maruan Al-Shedivat, Shimon Whiteson, Pieter Abbeel, Igor Mordatch, 2018.
 * [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/pdf/1702.03037.pdf) by Leibo J Z, Zambaldi V, Lanctot M, et al. arXiv, 2017. [[Post](https://deepmind.com/blog/understanding-agent-cooperation/)]

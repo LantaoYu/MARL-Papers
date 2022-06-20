@@ -85,6 +85,7 @@ The sharing principle of these references here is for research. If any authors d
 * [The Complexity of Markov Equilibrium in Stochastic Games](https://arxiv.org/pdf/2204.03991.pdf) by Daskalakis, Constantinos, Noah Golowich, and Kaiqing Zhang, 2022.
 * [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) by Kuba, Jakub Grudzien, Ruiqing Chen, Munning Wen, Ying Wen, Fanglei Sun, Jun Wang, and Yaodong Yang, ICLR 2022.
 * [The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games](https://arxiv.org/pdf/2103.01955.pdf) by Chao Yu, Akash Velu, Eugene Vinitsky, Yu Wang, Alexandre Bayen, Yi Wu, 2021.
+* [Human-level performance in 3D multiplayer games with population-based reinforcement learning](https://www.science.org/doi/abs/10.1126/science.aau6249) by Max Jaderberg, Wojciech M. Czarnecki, Iain Dunning, et al. Science 364.6443: 859-865, 2019.
 * [Emergent complexity through multi-agent competition](https://arxiv.org/pdf/1710.03748.pdf) by Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, Igor Mordatch, 2018.
 * [Learning with opponent learning awareness](https://arxiv.org/pdf/1709.04326.pdf) by Jakob Foerster, Richard Y. Chen2, Maruan Al-Shedivat, Shimon Whiteson, Pieter Abbeel, Igor Mordatch, 2018.
 * [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/pdf/1702.03037.pdf) by Leibo J Z, Zambaldi V, Lanctot M, et al. arXiv, 2017. [[Post](https://deepmind.com/blog/understanding-agent-cooperation/)]
@@ -100,6 +101,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Sparse cooperative Q-learning](http://www.machinelearning.org/proceedings/icml2004/papers/267.pdf) by Kok J R, Vlassis N. ICML, 2004.
 
 ### Coordination
+* [Collaborating with Humans without Human Data](https://openreview.net/pdf?id=1Kof-nkmQB8) by DJ Strouse, Kevin R. McKee, Matt Botvinick, Edward Hughes, Richard Everett. NeurIPS 2021.
 * [Coordinated Multi-Agent Imitation Learning](https://arxiv.org/pdf/1703.03121.pdf) by Le H M, Yue Y, Carr P. arXiv, 2017.
 * [Reinforcement social learning of coordination in networked cooperative multiagent systems](http://mipc.inf.ed.ac.uk/2014/papers/mipc2014_hao_etal.pdf) by Hao J, Huang D, Cai Y, et al. AAAI Workshop, 2014.
 * [Coordinating multi-agent reinforcement learning with limited communication](http://www.aamas-conference.org/Proceedings/aamas2013/docs/p1101.pdf) by Zhang, Chongjie, and Victor Lesser. AAMAS, 2013.
@@ -114,6 +116,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Improving learning and adaptation in security games by exploiting information asymmetry](http://www4.ncsu.edu/~hdai/infocom-2015-XH.pdf) by He X, Dai H, Ning P. INFOCOM, 2015.
 
 ### Self-Play
+* [A Comparison of Self-Play Algorithms Under a Generalized Framework](https://arxiv.org/abs/2006.04471) by Daniel Hernandez, Kevin Denamganai, Sam Devlin, et al. IEEE Transactions on Games 2021
 * [A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning](https://arxiv.org/pdf/1711.00832.pdf) by Marc Lanctot, Vinicius Zambaldi, Audrunas Gruslys, Angeliki Lazaridou, Karl Tuyls, Julien Perolat, David Silver, Thore Graepel. NIPS 2017.
 * [Deep reinforcement learning from self-play in imperfect-information games](https://arxiv.org/pdf/1603.01121.pdf) by Heinrich, Johannes, and David Silver. arXiv, 2016.
 * [Fictitious Self-Play in Extensive-Form Games](http://jmlr.org/proceedings/papers/v37/heinrich15.pdf) by Heinrich, Johannes, Marc Lanctot, and David Silver. ICML, 2015.
@@ -154,6 +157,7 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ### Application
+* [MuZero with Self-competition for Rate Control in VP9 Video Compression](https://arxiv.org/abs/2202.06626) by Amol Mandhane, Anton Zhernov, Maribeth Rauh, Chenjie Gu, et al. arXiv 2022.
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/pdf/1712.00600.pdf) by Zheng L et al. NIPS 2017 & AAAI 2018 Demo. ([Github Page](https://github.com/geek-ai/MAgent))
 * [Collaborative Deep Reinforcement Learning for Joint Object Search](https://arxiv.org/pdf/1702.05573.pdf) by Kong X, Xin B, Wang Y, et al. arXiv, 2017.
 * [Multi-Agent Stochastic Simulation of Occupants for Building Simulation](http://www.ibpsa.org/proceedings/BS2017/BS2017_051.pdf) by Chapman J, Siebers P, Darren R. Building Simulation, 2017.

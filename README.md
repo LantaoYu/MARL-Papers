@@ -21,6 +21,8 @@ The sharing principle of these references here is for research. If any authors d
   * [Imitation and Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#imitation-and-inverse-reinforcement-learning)
   * [Meta Learning](https://github.com/LantaoYu/MARL-Papers#meta-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
+  * [Networked MARL(Decentralized Training Decentralized Execution)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
+  
 
 ## Tutorial and Books
 * [Many-agent Reinforcement Learning](https://discovery.ucl.ac.uk/id/eprint/10124273/12/Yang_10124273_thesis_revised.pdf) by Yaodong Yang, 2021. PhD Thesis.
@@ -123,8 +125,8 @@ The sharing principle of these references here is for research. If any authors d
 
 ### Learning To Communicate
 * [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW) by Kris Cao, Angeliki Lazaridou, Marc Lanctot, Joel Z Leibo, Karl Tuyls, Stephen Clark, 2018.
-* [Emergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input](https://openreview.net/pdf?id=HJGv1Z-AW) by Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, Stephen Clark
-* [EMERGENCE OF LANGUAGE WITH MULTI-AGENT GAMES: LEARNING TO COMMUNICATE WITH SEQUENCES OF SYMBOLS](https://openreview.net/pdf?id=SkaxnKEYg) by Serhii Havrylov, Ivan Titov. ICLR Workshop, 2017.
+* [Emergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input](https://openreview.net/pdf?id=HJGv1Z-AW) by Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, Stephen Clark. ICLR 2018.
+* [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://openreview.net/pdf?id=SkaxnKEYg) by Serhii Havrylov, Ivan Titov. ICLR Workshop, 2017.
 * [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning](https://arxiv.org/pdf/1703.06585.pdf) by Abhishek Das, Satwik Kottur, et al. arXiv, 2017.
 * [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/pdf/1703.04908.pdf) by Igor Mordatch, Pieter Abbeel. arXiv, 2017. [[Post](https://openai.com/blog/learning-to-communicate/)]
 * [Cooperation and communication in multiagent deep reinforcement learning](https://repositories.lib.utexas.edu/handle/2152/45681) by Hausknecht M J. 2017.
@@ -169,3 +171,13 @@ The sharing principle of these references here is for research. If any authors d
 * [Multiagent reinforcement learning for urban traffic control using coordination graphs](https://staff.science.uva.nl/s.a.whiteson/pubs/kuyerecml08.pdf) by Kuyer, Lior, et al. oint European Conference on Machine Learning and Knowledge Discovery in Databases, 2008.
 * [A multi-agent Q-learning framework for optimizing stock trading systems](https://www.researchgate.net/publication/221465347_A_Multi-agent_Q-learning_Framework_for_Optimizing_Stock_Trading_Systems) by Lee J W, Jangmin O. DEXA, 2002.
 * [Multi-agent reinforcement learning for traffic light control](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=422747CB9AF552CF1C4E455220E3F96F?doi=10.1.1.32.9887&rep=rep1&type=pdf) by Wiering, Marco. ICML. 2000.
+
+
+### Networked MARL
+* [QD-Learning: A Collaborative Distributed Strategy for Multi-Agent Reinforcement Learning Through Consensus Innovations](https://ieeexplore.ieee.org/document/6415291) by Kar, Soummya and Moura, José M. F. and Poor, H. Vincent. IEEE Transactions on Signal Processing 2013.
+* [Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://proceedings.mlr.press/v80/zhang18n.html) by Kaiqing Zhang, Zhuoran Yang, Han Liu, Tong Zhang, Tamer Basar. ICML 2018.
+* [Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/hash/8a0e1141fd37fa5b98d5bb769ba1a7cc-Abstract.html) by Chao Qu, Shie Mannor, Huan Xu, Yuan Qi, Le Song, Junwu Xiong. NIPS 2019.
+* [Multi-agent Reinforcement Learning for Networked System Control](https://arxiv.org/abs/2004.01339) by Tianshu Chu, Sandeep Chinchali, Sachin Katti. ICLR 2020.
+* [F2A2: Flexible fully-decentralized approximate actor-critic for cooperative multi-agent reinforcement learning](https://arxiv.org/abs/2004.11145) by Wenhao Li, Bo Jin, Xiangfeng Wang, Junchi Yan, Hongyuan Zha. arXiv 2020.
+* [Scalable Reinforcement Learning of Localized Policies for Multi-Agent Networked Systems](https://proceedings.mlr.press/v120/qu20a.html) by Guannan Qu, Adam Wierman, Na Li. L4DC 2020.
+* [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://ieeexplore.ieee.org/abstract/document/9314079) by Zhang, Kaiqing and Yang, Zhuoran and Liu, Han and Zhang, Tong and Başar, Tamer. TAC 2021.

@@ -92,6 +92,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Emergent complexity through multi-agent competition](https://arxiv.org/pdf/1710.03748.pdf) by Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, Igor Mordatch, 2018.
 * [Learning with opponent learning awareness](https://arxiv.org/pdf/1709.04326.pdf) by Jakob Foerster, Richard Y. Chen2, Maruan Al-Shedivat, Shimon Whiteson, Pieter Abbeel, Igor Mordatch, 2018.
 * [Multi-agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/pdf/1702.03037.pdf) by Leibo J Z, Zambaldi V, Lanctot M, et al. arXiv, 2017. [[Post](https://deepmind.com/blog/understanding-agent-cooperation/)]
+* [Cooperative Multi-Agent Control Using Deep Reinforcement Learning](https://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf) by Gupta, J. K., Egorov, M., & Kochenderfer, M. AAMAS 2017.
 * [Reinforcement Learning in Partially Observable Multiagent Settings: Monte Carlo Exploring Policies with PAC Bounds](http://orca.st.usm.edu/~banerjee/papers/p530-ceren.pdf) by Roi Ceren, Prashant Doshi, and Bikramjit Banerjee, pp. 530-538, AAMAS 2016.
 * [Opponent Modeling in Deep Reinforcement Learning](http://www.umiacs.umd.edu/~hal/docs/daume16opponent.pdf) by He H, Boyd-Graber J, Kwok K, et al. ICML, 2016.
 * [Multiagent cooperation and competition with deep reinforcement learning](https://arxiv.org/pdf/1511.08779.pdf) by Tampuu A, Matiisen T, Kodelja D, et al. arXiv, 2015.

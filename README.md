@@ -25,6 +25,7 @@ The sharing principle of these references here is for research. If any authors d
   
 
 ## Tutorial and Books
+* [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/download) by Stefano V. Albrecht, Filippos Christianos, Lukas Schäfer, 2023.
 * [Many-agent Reinforcement Learning](https://discovery.ucl.ac.uk/id/eprint/10124273/12/Yang_10124273_thesis_revised.pdf) by Yaodong Yang, 2021. PhD Thesis.
 * [Deep Multi-Agent Reinforcement Learning](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4) by Jakob N Foerster, 2018. PhD Thesis.
 * [Multi-Agent Machine Learning: A Reinforcement Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118884614) by H. M. Schwartz, 2014.

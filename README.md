@@ -104,6 +104,9 @@ The sharing principle of these references here is for research. If any authors d
 * [Learning to cooperate in multi-agent social dilemmas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.335&rep=rep1&type=pdf) by de Cote E M, Lazaric A, Restelli M. AAMAS, 2006.
 * [Learning to compete, compromise, and cooperate in repeated general-sum games](http://www.machinelearning.org/proceedings/icml2005/papers/021_Learning_CrandallGoodrich.pdf) by Crandall J W, Goodrich M A. ICML, 2005.
 * [Sparse cooperative Q-learning](http://www.machinelearning.org/proceedings/icml2004/papers/267.pdf) by Kok J R, Vlassis N. ICML, 2004.
+* [Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games](https://arxiv.org/pdf/2106.01969.pdf) by Leonardos, Stefanos, Will Overman, Ioannis Panageas, and Georgios Piliouras. 2021
+* [Markov α-Potential Games: Equilibrium Approximation and Regret Analysis](https://arxiv.org/pdf/2305.12553.pdf) by Xin G, et al, 2023
+* [A Natural Actor-Critic Framework for Zero-Sum Markov Games](https://proceedings.mlr.press/v162/alacaoglu22a/alacaoglu22a.pdf) Ahmet A. et al, ICML, 2022
 
 ### Coordination
 * [Collaborating with Humans without Human Data](https://openreview.net/pdf?id=1Kof-nkmQB8) by DJ Strouse, Kevin R. McKee, Matt Botvinick, Edward Hughes, Richard Everett. NeurIPS 2021.

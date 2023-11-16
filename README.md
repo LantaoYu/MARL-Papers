@@ -34,6 +34,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Review Papers
 * [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) by Yaodong Yang and Jun Wang. 2020.
+* [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://arxiv.org/abs/1810.05587) by Pablo Hernandez-Leal, Bilal Kartal and Matthew E. Taylor. 2019.
 * [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/pdf/1911.10635.pdf) by Kaiqing Zhang, Zhuoran Yang, Tamer Başar. 2019.
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/view/11396) by Silva, Felipe Leno da; Costa, Anna Helena Reali. JAIR, 2019.
 * [Autonomously Reusing Knowledge in Multiagent Reinforcement Learning](https://www.ijcai.org/proceedings/2018/774) by Silva, Felipe Leno da; Taylor, Matthew E.; Costa, Anna Helena Reali. IJCAI, 2018.

@@ -22,6 +22,7 @@ The sharing principle of these references here is for research. If any authors d
   * [Meta Learning](https://github.com/LantaoYu/MARL-Papers#meta-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
   * [Networked MARL(Decentralized Training Decentralized Execution)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
+  * [LLMs in MARL(Large Language Models in MARL)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
   
 
 ## Tutorial and Books

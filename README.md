@@ -1,6 +1,6 @@
 ## Paper Collection of Multi-Agent Reinforcement Learning (MARL)
 
-Multi-Agent Reinforcement Learning is a very interesting research area, which has strong connections with single-agent RL, multi-agent systems, game theory, evolutionary computation and optimization theory.
+Multi-Agent Reinforcement Learning is a very interesting research area, which has strong connections with single-agent RL, multi-agent systems, game theory, evolutionary computation and optimization theory, and its application in Large Language Models and Robotics.
 
 This is a collection of research and review papers of multi-agent reinforcement learning (MARL). The Papers are sorted by time. Any suggestions and pull requests are welcome.
 

@@ -21,9 +21,9 @@ The sharing principle of these references here is for research. If any authors d
   * [Imitation and Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#imitation-and-inverse-reinforcement-learning)
   * [Meta Learning](https://github.com/LantaoYu/MARL-Papers#meta-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
-  * [Networked MARL(Decentralized Training Decentralized Execution)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
-  * [MARL in LLMs(Large Language Models in MARL)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
-  * [MARL in Robotics(Large Language Models in MARL)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
+  * [Networked MARL (Decentralized Training Decentralized Execution)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
+  * [MARL in LLMs (Large Language Models in MARL)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
+  * [MARL in Robotics (Large Language Models in MARL)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
   
 
 ## Tutorial and Books

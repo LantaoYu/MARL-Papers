@@ -22,8 +22,8 @@ The sharing principle of these references here is for research. If any authors d
   * [Meta Learning](https://github.com/LantaoYu/MARL-Papers#meta-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
   * [Networked MARL (Decentralized Training Decentralized Execution)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
-  * [MARL in LLMs (Large Language Models in MARL)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
-  * [MARL in Robotics (Large Language Models in MARL)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
+  * [MARL in LLMs (MARL in Large Language Models)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
+  * [MARL in Robotics (MARL Robotics)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
   
 
 ## Tutorial and Books
@@ -52,6 +52,10 @@ The sharing principle of these references here is for research. If any authors d
 * [Cooperative multi-agent learning: the state of the art](https://cs.gmu.edu/~eclab/papers/panait05cooperative.pdf) by Liviu Panait and Sean Luke, 2005.
 
 ## Research Papers
+
+### MARL in LLMs
+* [Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680) by Guo, Taicheng, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, and Xiangliang Zhang. 2024.
+* [Theory of mind for multi-agent collaboration via large language models](https://arxiv.org/pdf/2310.10701) by Li, Huao, Yu Quan Chong, Simon Stepputtis, Joseph Campbell, Dana Hughes, Michael Lewis, and Katia Sycara. 2023.
 
 ### Framework
 * [Multi-Agent Constrained Policy Optimisation](https://arxiv.org/pdf/2110.02793.pdf) by Shangding Gu, Jakub Grudzien Kuba, Munning Wen, Ruiqing Chen, Ziyan Wang, Zheng Tian, Jun Wang, Alois Knoll, and Yaodong Yang, 2021.

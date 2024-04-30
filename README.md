@@ -56,6 +56,7 @@ The sharing principle of these references here is for research. If any authors d
 ### MARL in LLMs
 * [Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680) by Guo, Taicheng, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, and Xiangliang Zhang. 2024.
 * [Theory of mind for multi-agent collaboration via large language models](https://arxiv.org/pdf/2310.10701) by Li, Huao, Yu Quan Chong, Simon Stepputtis, Joseph Campbell, Dana Hughes, Michael Lewis, and Katia Sycara. 2023.
+* [Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=1PPjf4wife) by Slumbers, Oliver, David Henry Mguni, Kun Shao, and Jun Wang. 2024
 
 ### Framework
 * [Multi-Agent Constrained Policy Optimisation](https://arxiv.org/pdf/2110.02793.pdf) by Shangding Gu, Jakub Grudzien Kuba, Munning Wen, Ruiqing Chen, Ziyan Wang, Zheng Tian, Jun Wang, Alois Knoll, and Yaodong Yang, 2021.

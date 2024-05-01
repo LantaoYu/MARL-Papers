@@ -22,8 +22,8 @@ The sharing principle of these references here is for research. If any authors d
   * [Meta Learning](https://github.com/LantaoYu/MARL-Papers#meta-learning)
   * [Application](https://github.com/LantaoYu/MARL-Papers#application)
   * [Networked MARL (Decentralized Training Decentralized Execution)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
-  * [MARL in LLMs (MARL in Large Language Models)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
-  * [MARL in Robotics (MARL in Robotics)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
+  * [MARL in LLMs (MARL in Large Language Models)](https://github.com/LantaoYu/MARL-Papers#framework)
+  * [MARL in Robotics (MARL in Robotics)](https://github.com/LantaoYu/MARL-Papers#framework)
   
 
 ## Tutorial and Books
@@ -53,6 +53,10 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Research Papers
 
+### MARL in LLMs
+* [Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680) by Guo, Taicheng, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, and Xiangliang Zhang. 2024.
+* [Theory of mind for multi-agent collaboration via large language models](https://arxiv.org/pdf/2310.10701) by Li, Huao, Yu Quan Chong, Simon Stepputtis, Joseph Campbell, Dana Hughes, Michael Lewis, and Katia Sycara. 2023.
+* [Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=1PPjf4wife) by Slumbers, Oliver, David Henry Mguni, Kun Shao, and Jun Wang. 2024
 
 ### Framework
 * [Multi-Agent Constrained Policy Optimisation](https://arxiv.org/pdf/2110.02793.pdf) by Shangding Gu, Jakub Grudzien Kuba, Munning Wen, Ruiqing Chen, Ziyan Wang, Zheng Tian, Jun Wang, Alois Knoll, and Yaodong Yang, 2021.
@@ -192,7 +196,4 @@ The sharing principle of these references here is for research. If any authors d
 * [Scalable Reinforcement Learning of Localized Policies for Multi-Agent Networked Systems](https://proceedings.mlr.press/v120/qu20a.html) by Guannan Qu, Adam Wierman, Na Li. L4DC 2020.
 * [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://ieeexplore.ieee.org/abstract/document/9314079) by Zhang, Kaiqing and Yang, Zhuoran and Liu, Han and Zhang, Tong and Başar, Tamer. TAC 2021.
 
-### MARL in LLMs
-* [Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680) by Guo, Taicheng, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, and Xiangliang Zhang. 2024.
-* [Theory of mind for multi-agent collaboration via large language models](https://arxiv.org/pdf/2310.10701) by Li, Huao, Yu Quan Chong, Simon Stepputtis, Joseph Campbell, Dana Hughes, Michael Lewis, and Katia Sycara. 2023.
-* [Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=1PPjf4wife) by Slumbers, Oliver, David Henry Mguni, Kun Shao, and Jun Wang. 2024
+

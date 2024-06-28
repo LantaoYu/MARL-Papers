@@ -94,6 +94,9 @@ The sharing principle of these references here is for research. If any authors d
 * [Markov games as a framework for multi-agent reinforcement learning](https://www.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf) by Littman, Michael L. ICML, 1994.
 
 ### Cooperation and competition
+* [Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2207.03902.pdf) by Shunyu Liu, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song. TPAMI, 2024.
+* [Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition](https://arxiv.org/pdf/2211.12712.pdf) by Shunyu Liu, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song. AAAI, 2023.
+* [Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?](https://arxiv.org/pdf/2305.17352.pdf) by Yihe Zhou, Shunyu Liu, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song. 2023.
 * [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/pdf/2205.14953.pdf), by Wen, Muning, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, and Yaodong Yang, 2022.
 * [The Complexity of Markov Equilibrium in Stochastic Games](https://arxiv.org/pdf/2204.03991.pdf) by Daskalakis, Constantinos, Noah Golowich, and Kaiqing Zhang, 2022.
 * [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) by Kuba, Jakub Grudzien, Ruiqing Chen, Munning Wen, Ying Wen, Fanglei Sun, Jun Wang, and Yaodong Yang, ICLR 2022.

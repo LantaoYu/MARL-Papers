@@ -142,6 +142,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Fictitious Self-Play in Extensive-Form Games](http://jmlr.org/proceedings/papers/v37/heinrich15.pdf) by Heinrich, Johannes, Marc Lanctot, and David Silver. ICML, 2015.
 
 ### Learning To Communicate
+* [Hammer: Multi-level coordination of reinforcement learning agents via learned messaging] by Nikunj Gupta, G. Srinivasaraghavan, Swarup Mohalik, Nishant Kumar, and Matthew E. Taylor, Neural Computing and Applications, 2023." 
 * [Learning to ground multi-agent communication with autoencoders](https://arxiv.org/pdf/2110.15349) by Lin, Toru, Jacob Huh, Christopher Stauffer, Ser Nam Lim, and Phillip Isola. 2021.
 * [Emergent Communication through Negotiation](https://openreview.net/pdf?id=Hk6WhagRW) by Kris Cao, Angeliki Lazaridou, Marc Lanctot, Joel Z Leibo, Karl Tuyls, Stephen Clark, 2018.
 * [Emergence of Linguistic Communication From Referential Games with Symbolic and Pixel Input](https://openreview.net/pdf?id=HJGv1Z-AW) by Angeliki Lazaridou, Karl Moritz Hermann, Karl Tuyls, Stephen Clark. ICLR 2018.

@@ -35,6 +35,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) by Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
 
 ## Review Papers
+* [Model-based Multi-agent Reinforcement Learning: Recent Progress and Prospects](https://arxiv.org/pdf/2203.10603.pdf) by Xihuai Wang, Zhicheng Zhang, and Weinan Zhang. 2022.
 * [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) by Yaodong Yang and Jun Wang. 2020.
 * [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://arxiv.org/abs/1810.05587) by Pablo Hernandez-Leal, Bilal Kartal and Matthew E. Taylor. 2019.
 * [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/pdf/1911.10635.pdf) by Kaiqing Zhang, Zhuoran Yang, Tamer Başar. 2019.
@@ -54,6 +55,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers
 
 ### MARL in LLMs
+* [Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task](https://arxiv.org/abs/2409.08811.pdf) by Shao Zhang*, Xihuai Wang*, Wenhao Zhang, Yongshan Chen, Landi Gao, Dakuo Wang, Weinan Zhang, Xinbing Wang, and Ying Wen. 2024.
 * [Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680) by Guo, Taicheng, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, and Xiangliang Zhang. 2024.
 * [Leveraging Large Language Models for Optimised Coordination in Textual Multi-Agent Reinforcement Learning](https://openreview.net/pdf?id=1PPjf4wife) by Slumbers, Oliver, David Henry Mguni, Kun Shao, and Jun Wang. 2024.
 * [Theory of mind for multi-agent collaboration via large language models](https://arxiv.org/pdf/2310.10701) by Li, Huao, Yu Quan Chong, Simon Stepputtis, Joseph Campbell, Dana Hughes, Michael Lewis, and Katia Sycara. 2023.
@@ -94,12 +96,14 @@ The sharing principle of these references here is for research. If any authors d
 * [Markov games as a framework for multi-agent reinforcement learning](https://www.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf) by Littman, Michael L. ICML, 1994.
 
 ### Cooperation and competition
+* [Order Matters: Agent-by-agent Policy Optimization](https://arxiv.org/pdf/2302.06205.pdf) by Xihuai Wang, Zheng Tian, Ziyu Wan, Ying Wen, Jun Wang, Weinan Zhang, ICLR 2023.
 * [Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2207.03902.pdf) by Shunyu Liu, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song. TPAMI, 2024.
 * [Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition](https://arxiv.org/pdf/2211.12712.pdf) by Shunyu Liu, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song. AAAI, 2023.
 * [Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?](https://arxiv.org/pdf/2305.17352.pdf) by Yihe Zhou, Shunyu Liu, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song. 2023.
 * [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/pdf/2205.14953.pdf), by Wen, Muning, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, and Yaodong Yang, 2022.
 * [The Complexity of Markov Equilibrium in Stochastic Games](https://arxiv.org/pdf/2204.03991.pdf) by Daskalakis, Constantinos, Noah Golowich, and Kaiqing Zhang, 2022.
 * [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) by Kuba, Jakub Grudzien, Ruiqing Chen, Munning Wen, Ying Wen, Fanglei Sun, Jun Wang, and Yaodong Yang, ICLR 2022.
+* [Model-based Multi-agent Policy Optimization with Adaptive Opponent-wise Rollouts](https://arxiv.org/pdf/2203.10603.pdf) by Weinan Zhang, Xihuai Wang, Jian Shen, and Ming Zhou. IJCAI 2021.
 * [The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games](https://arxiv.org/pdf/2103.01955.pdf) by Chao Yu, Akash Velu, Eugene Vinitsky, Yu Wang, Alexandre Bayen, Yi Wu, 2021.
 * [Human-level performance in 3D multiplayer games with population-based reinforcement learning](https://www.science.org/doi/abs/10.1126/science.aau6249) by Max Jaderberg, Wojciech M. Czarnecki, Iain Dunning, et al. Science 364.6443: 859-865, 2019.
 * [Emergent complexity through multi-agent competition](https://arxiv.org/pdf/1710.03748.pdf) by Trapit Bansal, Jakub Pachocki, Szymon Sidor, Ilya Sutskever, Igor Mordatch, 2018.
@@ -121,6 +125,7 @@ The sharing principle of these references here is for research. If any authors d
 * [A Natural Actor-Critic Framework for Zero-Sum Markov Games](https://proceedings.mlr.press/v162/alacaoglu22a/alacaoglu22a.pdf) Ahmet A. et al, ICML, 2022
 
 ### Coordination
+* [ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination](https://arxiv.org/pdf/2310.05208.pdf) by Xihuai Wang, Shao Zhang, Wenhao Zhang, Wentao Dong, Jingxiao Chen, Ying Wen, and Weinan Zhang. NeurIPS 2024.
 * [Collaborating with Humans without Human Data](https://openreview.net/pdf?id=1Kof-nkmQB8) by DJ Strouse, Kevin R. McKee, Matt Botvinick, Edward Hughes, Richard Everett. NeurIPS 2021.
 * [Coordinated Multi-Agent Imitation Learning](https://arxiv.org/pdf/1703.03121.pdf) by Le H M, Yue Y, Carr P. arXiv, 2017.
 * [Reinforcement social learning of coordination in networked cooperative multiagent systems](http://mipc.inf.ed.ac.uk/2014/papers/mipc2014_hao_etal.pdf) by Hao J, Huang D, Cai Y, et al. AAAI Workshop, 2014.

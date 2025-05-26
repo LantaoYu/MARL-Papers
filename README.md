@@ -62,6 +62,7 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ### Framework
+* [Safe Multi-Agent Reinforcement Learning with Bilevel Optimization in Autonomous Driving](https://arxiv.org/pdf/2405.18209) by Zhi Zheng and Shangding Gu, 2024.
 * [Multi-Agent Constrained Policy Optimisation](https://arxiv.org/pdf/2110.02793.pdf) by Shangding Gu, Jakub Grudzien Kuba, Munning Wen, Ruiqing Chen, Ziyan Wang, Zheng Tian, Jun Wang, Alois Knoll, and Yaodong Yang, 2021.
 * [Settling the Variance of Multi-Agent Policy Gradients](https://arxiv.org/pdf/2108.08612.pdf) by Kuba Jakub, Muning Wen, Linghui Meng, Shangding Gu, Haifeng Zhang, David Mguni, Jun Wang, and Yaodong Yang, NIPS 2021.
 * [QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1803.11485.pdf) by Tabish Rashid, Mikayel Samvelyan, Christian Schroeder de Witt, Gregory Farquhar, Jakob Foerster, Shimon Whiteson. ICML 2018.
@@ -184,6 +185,7 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ### Application
+* [Safe multiagent learning with soft constrained policy optimization in real robot control](https://ieeexplore.ieee.org/abstract/document/10530650) by Shangding Gu, Dianye Huang, Muning Wen, Guang Chen, Alois Knoll. IEEE TII, 2024.
 * [MuZero with Self-competition for Rate Control in VP9 Video Compression](https://arxiv.org/abs/2202.06626) by Amol Mandhane, Anton Zhernov, Maribeth Rauh, Chenjie Gu, et al. arXiv 2022.
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/pdf/1712.00600.pdf) by Zheng L et al. NIPS 2017 & AAAI 2018 Demo. ([Github Page](https://github.com/geek-ai/MAgent))
 * [Collaborative Deep Reinforcement Learning for Joint Object Search](https://arxiv.org/pdf/1702.05573.pdf) by Kong X, Xin B, Wang Y, et al. arXiv, 2017.

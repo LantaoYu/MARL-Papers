@@ -187,6 +187,7 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ### Application
+* [Mobile User Interface Adaptation Based on Usability Reward Model and Multi-Agent Reinforcement Learning](https://www.mdpi.com/2414-4088/8/4/26) by Vidmanov Dmitry, Alfimtsev Alexander. Multimodal Technologies and Interaction, 2024. 
 * [Safe multiagent learning with soft constrained policy optimization in real robot control](https://ieeexplore.ieee.org/abstract/document/10530650) by Shangding Gu, Dianye Huang, Muning Wen, Guang Chen, Alois Knoll. IEEE TII, 2024.
 * [MuZero with Self-competition for Rate Control in VP9 Video Compression](https://arxiv.org/abs/2202.06626) by Amol Mandhane, Anton Zhernov, Maribeth Rauh, Chenjie Gu, et al. arXiv 2022.
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/pdf/1712.00600.pdf) by Zheng L et al. NIPS 2017 & AAAI 2018 Demo. ([Github Page](https://github.com/geek-ai/MAgent))

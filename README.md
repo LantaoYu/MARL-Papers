@@ -35,7 +35,9 @@ The sharing principle of these references here is for research. If any authors d
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) by Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
 
 ## Review Papers
+
 * [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/abs/2509.02547) by Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, and Lei Bai. 2025. [[GitHub](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers)]
+* [Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-based Planner and Graph-based Policy](https://arxiv.org/abs/2503.10049) by Ziqi Jia, Junjie Li, Xiaoyang Qu, Jianzong Wang. arXiv, 2025.
 * [Model-based Multi-agent Reinforcement Learning: Recent Progress and Prospects](https://arxiv.org/pdf/2203.10603.pdf) by Xihuai Wang, Zhicheng Zhang, and Weinan Zhang. 2022.
 * [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) by Yaodong Yang and Jun Wang. 2020.
 * [A Survey and Critique of Multiagent Deep Reinforcement Learning](https://arxiv.org/abs/1810.05587) by Pablo Hernandez-Leal, Bilal Kartal and Matthew E. Taylor. 2019.

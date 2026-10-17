@@ -187,6 +187,7 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ### Application
+* [Sustainable Smart Grid Resilience and Renewable Integration Using Multi-Agent Reinforcement Learning](https://www.mdpi.com/2071-1050/18/20/10574) by Seyed Mahmoud Sajjadi Mohammadabadi, Sayed Mohammad Sajjadi. Sustainability, 2026. ([Github Page](https://github.com/mahmoudsajjadi/Smart-Grid-Resilience-MARL))
 * [Mobile User Interface Adaptation Based on Usability Reward Model and Multi-Agent Reinforcement Learning](https://www.mdpi.com/2414-4088/8/4/26) by Vidmanov Dmitry, Alfimtsev Alexander. Multimodal Technologies and Interaction, 2024. 
 * [Safe multiagent learning with soft constrained policy optimization in real robot control](https://ieeexplore.ieee.org/abstract/document/10530650) by Shangding Gu, Dianye Huang, Muning Wen, Guang Chen, Alois Knoll. IEEE TII, 2024.
 * [MuZero with Self-competition for Rate Control in VP9 Video Compression](https://arxiv.org/abs/2202.06626) by Amol Mandhane, Anton Zhernov, Maribeth Rauh, Chenjie Gu, et al. arXiv 2022.
@@ -211,5 +212,6 @@ The sharing principle of these references here is for research. If any authors d
 * [F2A2: Flexible fully-decentralized approximate actor-critic for cooperative multi-agent reinforcement learning](https://arxiv.org/abs/2004.11145) by Wenhao Li, Bo Jin, Xiangfeng Wang, Junchi Yan, Hongyuan Zha. arXiv 2020.
 * [Scalable Reinforcement Learning of Localized Policies for Multi-Agent Networked Systems](https://proceedings.mlr.press/v120/qu20a.html) by Guannan Qu, Adam Wierman, Na Li. L4DC 2020.
 * [Finite-Sample Analysis For Decentralized Batch Multi-Agent Reinforcement Learning With Networked Agents](https://ieeexplore.ieee.org/abstract/document/9314079) by Zhang, Kaiqing and Yang, Zhuoran and Liu, Han and Zhang, Tong and Başar, Tamer. TAC 2021.
+* [Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning](https://doi.org/10.1109/ICDCS60910.2024.00062) by Seyed Mahmoud Sajjadi Mohammadabadi, Lei Yang, Feng Yan, Junshan Zhang. IEEE ICDCS 2024. ([Github Page](https://github.com/mahmoudsajjadi/ComDML))
 
 

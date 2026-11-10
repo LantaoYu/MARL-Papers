@@ -56,6 +56,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Research Papers
 
 ### MARL in LLMs
+* [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757) by Haoran Lu, Luyang Fang, Wenxuan Zhong, and Ping Ma. The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration (STAI-X 2026), Paper Award Honorable Mention. 2026.
 * [CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards](https://arxiv.org/abs/2510.08529) by Xiangyuan Xue, Yifan Zhou, Guibin Zhang, Zaibin Zhang, Yijiang Li, Chen Zhang, Zhenfei Yin, Philip Torr, Wanli Ouyang, and Lei Bai. 2025.
 * [Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task](https://arxiv.org/abs/2409.08811.pdf) by Shao Zhang*, Xihuai Wang*, Wenhao Zhang, Yongshan Chen, Landi Gao, Dakuo Wang, Weinan Zhang, Xinbing Wang, and Ying Wen. 2024.
 * [Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680) by Guo, Taicheng, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, and Xiangliang Zhang. 2024.
